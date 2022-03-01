@@ -15,8 +15,6 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Arthur-NextJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
   <img align="center" alt="Arthur-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
   <img align="right"  alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/J4gkl6D.gif?width=676&height=676">
 </div>
