@@ -6,8 +6,8 @@
 - 📚 Estudante de Desenvolvimento Web | Front End.
 <div align="center">
   <a href="https://github.com/DevArthurSantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevArthurSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevArthurSantos&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevArthurSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevArthurSantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2 align="left">Tecnologias e ferramentas que utilizo!</h2>
 <h3 align="left">Tecnologias:</h3>
