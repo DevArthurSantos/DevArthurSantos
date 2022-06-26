@@ -24,6 +24,7 @@
   <img align="center" alt="Arthur-FireBase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
  
   <img align="center" alt="Arthur-FireBase" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+ <img align="center" alt="Arthur-mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   <img align="right"  alt="Arthur-gif" height="150" style="border-radius:50px;" src="https://i.imgur.com/J4gkl6D.gif?width=676&height=676">
 </div>
  
